@@ -46,7 +46,9 @@ body {
 }
 @media (max-width: 600px) {
   .calculator {
-    max-width: 300px;
+    width: 60%;
+    height: 80%;
+    color:
   }
   .display {
     font-size: 2em;
